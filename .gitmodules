@@ -1,0 +1,15 @@
+[submodule "fish"]
+	path = fish
+	url = https://github.com/fish-shell/fish-shell
+[submodule "nvim"]
+	path = nvim
+	url = https://github.com/neovim/neovim
+[submodule "plugins/tmux"]
+	path = plugins/tmux
+	url = https://github.com/tmux/tmux
+[submodule "plugins/tpm"]
+	path = plugins/tpm
+	url = https://github.com/tmux-plugins/tpm
+[submodule "wezterm"]
+	path = wezterm
+	url = https://github.com/wezterm/wezterm
